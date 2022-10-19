@@ -10,6 +10,12 @@ body {
  font-family: 'Manrope', Arial, Helvetica, sans-serif;
 }
 
+header {
+ display: flex;
+ flex-direction: column;
+ background-color: #1f2937;
+}
+
 footer {
  display: flex;
  justify-content: center;

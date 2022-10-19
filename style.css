@@ -43,6 +43,16 @@ nav {
  color: #e5e7eb;
 }
 
+.quote {
+ background-color: e5e7eb;
+ color: #1f2937;
+ font-size: 36px;
+ font-weight: 300px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
 footer {
  display: flex;
  justify-content: center;

@@ -3,3 +3,11 @@
  padding: 0;
  box-sizing: border-box;
 }
+
+footer {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: #1f2937;
+ color: #e5e7eb;
+}

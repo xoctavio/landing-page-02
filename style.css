@@ -16,6 +16,28 @@ header {
  background-color: #1f2937;
 }
 
+nav {
+ display: flex;
+ justify-content: space-between;
+ color: #e5e7eb;
+}
+
+.right-links ul {
+ padding: 0;
+ margin: 0;
+ display: flex;
+ gap: 1rem;
+}
+
+.right-links ul li {
+ list-style: none;
+}
+
+.right-links ul li a {
+ text-decoration: none;
+ color: #e5e7eb;
+}
+
 footer {
  display: flex;
  justify-content: center;

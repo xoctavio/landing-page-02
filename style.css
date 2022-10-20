@@ -44,6 +44,40 @@ nav {
  color: #e5e7eb;
 }
 
+.hero {
+ display: flex;
+ justify-content: space-between;
+ color: #f9faf8;
+}
+
+.hero-left {
+ display: flex;
+ flex-direction: column;
+ width: 400px;
+}
+
+.hero-left h1 {
+ font-size: 48px;
+ font-weight: 700;
+}
+
+.hero-button {
+ background-color: #3882f6;
+ color: #f9faf8;
+ border: none;
+ border-radius: 5px;
+ padding: 4px 8px;
+}
+
+.hero-image {
+ background-color: #6d747d;
+ width: 400px;
+ height: 200px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
 main {
  display: flex;
  flex-direction: column;

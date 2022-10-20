@@ -15,12 +15,14 @@ header {
  flex-direction: column;
  background-color: #1f2937;
  padding: 2rem;
+ padding-bottom: 4rem;
 }
 
 nav {
  display: flex;
  justify-content: space-between;
  color: #e5e7eb;
+ margin-bottom: 2rem;
 }
 
 .left-links {
@@ -53,7 +55,9 @@ nav {
 .hero-left {
  display: flex;
  flex-direction: column;
+ align-items: flex-start;
  width: 400px;
+ height: 200px;
 }
 
 .hero-left h1 {

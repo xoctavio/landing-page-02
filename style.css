@@ -43,6 +43,25 @@ nav {
  color: #e5e7eb;
 }
 
+main {
+ display: flex;
+ flex-direction: column;
+}
+
+.call {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.call-square {
+ background-color: #3882f6;
+ color: #e5e7eb;
+ display: flex;
+ justify-content: space-between;
+ width: 30vw;
+}
+
 .quote {
  background-color: #e5e7eb;
  color: #1f2937;
